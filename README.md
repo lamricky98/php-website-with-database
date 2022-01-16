@@ -5,6 +5,7 @@ Ricky Lam's submission for the Shopify Technical Challenge for internship applic
 I created a simple CRUD application using PHP, MySQL, and XAMPP. The extra requirement that I decided to complete was exporting all product data to a CSV.
 
 Instructions on how to use:
+- As a disclaimer, I am using Windows and typing everything assuming you are using Windows too. If you aren't, try finding the Linux or iOS equivalents.
 - First of all, you must have a database management system installed and set up. For this purpose, I am using MySQL, which you can get here https://dev.mysql.com/downloads/mysql/. During installation, I left every option as default, and the password for my local instance mysql 80 was set to "1234". If your SQL server is set up different from the default provided by the installer, please edit config.php with your credentials (explained further below).
 - To host a website written in PHP without uploading it to a server, I installed XAMPP which you can get from here https://www.apachefriends.org. Once again, I installed everything in the default settings provided in the installer.
 - Once you got both a database management system and the php server host installed, download all files from this repository and place it in a folder on your computer anywhere you'd like.
